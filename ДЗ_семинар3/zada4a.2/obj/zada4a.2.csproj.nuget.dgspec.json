@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.1\\zada4a.1.csproj": {}
+    "C:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.2\\zada4a.2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.1\\zada4a.1.csproj": {
+    "C:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.2\\zada4a.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.1\\zada4a.1.csproj",
-        "projectName": "zada4a.1",
-        "projectPath": "c:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.1\\zada4a.1.csproj",
+        "projectUniqueName": "C:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.2\\zada4a.2.csproj",
+        "projectName": "zada4a.2",
+        "projectPath": "C:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.2\\zada4a.2.csproj",
         "packagesPath": "C:\\Users\\dimas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.1\\obj\\",
+        "outputPath": "C:\\Users\\dimas\\OneDrive\\Рабочий стол\\ДЗ_семинар3\\zada4a.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimas\\AppData\\Roaming\\NuGet\\NuGet.Config"

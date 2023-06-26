@@ -1,0 +1,15 @@
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\bin\Debug\net6.0\zada4a.2.exe
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\bin\Debug\net6.0\zada4a.2.deps.json
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\bin\Debug\net6.0\zada4a.2.runtimeconfig.json
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\bin\Debug\net6.0\zada4a.2.dll
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\bin\Debug\net6.0\zada4a.2.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.csproj.AssemblyReference.cache
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.AssemblyInfoInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.AssemblyInfo.cs
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.dll
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\refint\zada4a.2.dll
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\zada4a.2.genruntimeconfig.cache
+C:\Users\dimas\OneDrive\Рабочий стол\ДЗ_семинар3\zada4a.2\obj\Debug\net6.0\ref\zada4a.2.dll
