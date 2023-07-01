@@ -1,0 +1,15 @@
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\bin\Debug\net6.0\rabotaDZ3.exe
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\bin\Debug\net6.0\rabotaDZ3.deps.json
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\bin\Debug\net6.0\rabotaDZ3.runtimeconfig.json
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\bin\Debug\net6.0\rabotaDZ3.dll
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\bin\Debug\net6.0\rabotaDZ3.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.csproj.AssemblyReference.cache
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.AssemblyInfoInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.AssemblyInfo.cs
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.dll
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\refint\rabotaDZ3.dll
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.pdb
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\rabotaDZ3.genruntimeconfig.cache
+C:\Users\dimas\OneDrive\Рабочий стол\домашние задание урок 3\rabotaDZ3\obj\Debug\net6.0\ref\rabotaDZ3.dll
